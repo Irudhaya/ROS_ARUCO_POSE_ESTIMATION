@@ -1,0 +1,1 @@
+The repository provides the package for estimating the pose of the **aruco marker** relative to camera location. 
